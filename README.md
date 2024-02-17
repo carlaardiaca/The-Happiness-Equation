@@ -7,7 +7,7 @@ This project leverages data from the World Happiness Report to explore the facto
 - Data/: Contains the dataset used for the analysis.
 - Code/: Includes all R scripts for data processing.
 - Results/: Visualizations and summary statistics from the analysis.
-- The_Happiness_Equation_report.pdf/: Documentation and detailed project report.
+- The_Happiness_Equation_report.pdf: Documentation and detailed project report.
 - requirements.txt: Lists all R packages required to run the analysis.
 
 ## Environment Setup
